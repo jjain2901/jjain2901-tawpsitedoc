@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "TA WP Doc Site"
+  description: "TA WP Doc Site"
+  annotations:
+    github.com/project-slug: jjain2901/jjain2901/tawpsitedoc
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "team-a"

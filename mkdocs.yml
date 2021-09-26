@@ -1,0 +1,8 @@
+site_name: "TA WP Doc Site"
+site_description: "TA WP Doc Site"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
